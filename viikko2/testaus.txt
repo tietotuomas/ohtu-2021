@@ -1,0 +1,4 @@
+Yksikköstestaus
+Integraatiotestaus
+Järjestelmätestaus
+Käyttäjän hyväksymistestaus
