@@ -1,0 +1,8 @@
+Selenium;simulointi
+Alan25318;Turing
+Alan1;Turing
+Alan2863;Turing
+Alan2;Turing
+Alan89483;Turing
+Thymeleaf;template1
+Elon;MuskMusk1
