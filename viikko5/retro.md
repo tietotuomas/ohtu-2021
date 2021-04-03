@@ -1,1 +1,8 @@
 
+# Retrospektiivitekniikat
+
+## Glad, Sad, Mad
+Ryhmä ottaa esille &ndash; esimerkiksi fyysisiin tai virtuaalisiin lappuihin kirjoitettuna &ndash; asioita, joita heille jäi mieleen sprintistä. Korteille kirjoitettavat havainnot voivat liittyä työskentelytapoihin, teknisiseen aspektiin, työympäristöön tai oikeastaan mihin tahansa sellaiseen asiaan, joka on vaikuttanut yksilön tai ryhmän työskentelyyn. Aiheet kirjoitetaan korteille ytimekkäästi, mielellään yhden lauseen mittaisina ja ne jaotellaan kolmen kategorian alle, jotka ovat Glad, Sad ja Mad. Ryhmä äänestää esiin tulleista aiheista mielestään relevanteimmat puheenaiheet, joita käydään ryhmän kanssa läpi tarvittava aika, kuitenkin enintään tunnin ajan. Negatiivisten havaintojen läpikäynnistä on usein suurempi hyöty tulevaisuuden kannalta.
+
+## Start, Stop, Continue, More of, Less of Wheel
+Edellisen tekniikan mukaisesti ryhmä kirjoittaa ylös asioita, joilla pyritään parantamaan työskentelykultturia. Nyt ideoita kerätään lyhyiden kommenttien muodossa, jotka jaetaan esimerkiksi paperille piirretyssä ympyrässä viiden sektorin alle; Start, Stop, Continue, More of ja Less of. Start-kategorian alle kerätään asioita ja toimintatapoja, joita ryhmä ei vielä tee, mutta kannattaisi kenties jatkossa tehdä. Stop-luokan alle kerätään asioita, joiden tekeminen kannattaisi mahdollisesti lopettaa &ndash; continue-luokan alle taas asioita, joita ryhmä jo tekee ja joita kannattanee jatkaa. More ja less of-kategorioiden alle kerätään asioita, joita ryhmäläisten mielestä tehdään joko liian vähän tai liikaa. Tarkoituksenmukaista olisi saada kommentteja jokaisen luokan alle. Suositeltu kesto tekniikalle on kymmenestä 25:een minuuttiin.
