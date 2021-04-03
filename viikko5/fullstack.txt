@@ -1,0 +1,1 @@
+Fullstack-kurssilla tutustutaan javascriptiin ja mm. sen react-kirjastoon sekä typescriptiin
